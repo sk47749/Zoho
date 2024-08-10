@@ -20,7 +20,7 @@
 
  *Generate the report index.html file
 
-
+<img width="719" alt="Report" src="https://github.com/user-attachments/assets/1bca5a01-926f-48b2-a390-54c8b7480e30">
 
 4. Utilization: This is the whole process of Lead workflow - 
 
