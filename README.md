@@ -7,21 +7,36 @@ meaningfully and optimize their sales operations, resulting in positive customer
 Executing program: 
 Install Eclipse IDE.
 
-Create a Maven Project.
-Setup TestNG Framework.
+Create a Maven Project
+
+Setup TestNG Framework
+
 Build the path TestNG
-Download all dependencies that are required, pom.xml file.
+
+Download all dependencies that are required, pom.xml file
+
 Design Framework and create a page class and test class
+
 Create a Suit xml file to run multiple classes
+
 Generate the report index.html file
 
+
 Utilization: This is the whole process of Lead workflow - 
+
 Click on Sign in
+
 Enter user ID and password
+
 Click on Sign in 
+
 Create Lead
+
 Edit Lead 
+
 Filter Lead 
+
 Delete Lead
+
 
 Author: Shahrukh khan
