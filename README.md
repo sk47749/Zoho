@@ -6,6 +6,7 @@ meaningfully and optimize their sales operations, resulting in positive customer
 
 Executing program: 
 Install Eclipse IDE.
+
 Create a Maven Project.
 Setup TestNG Framework.
 Build the path TestNG
