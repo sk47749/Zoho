@@ -1,15 +1,16 @@
-Project Title: Zoho Web Application Testing
+1. Project Title: Zoho Web Application Testing
 
-Project Description: Every industry is unique, with different customer expectations, unique business processes, distinct pieces of customer information to work with, and 
+2. Project Description: Every industry is unique, with different customer expectations, unique business processes, distinct pieces of customer information to work with, and 
 varying security and compliance requirements. By blending powerful features with in-depth customization, Zoho CRM helps businesses across all industries engage their customers 
 meaningfully and optimize their sales operations, resulting in positive customer experiences and better revenue growth opportunities for every business.
 
-Executing program: 
-Install Eclipse IDE.
+3. Executing program: 
 
-Create a Maven Project
+*Install Eclipse IDE.
 
-Setup TestNG Framework
+*Create a Maven Project
+
+*Setup TestNG Framework
 
 Build the path TestNG
 
