@@ -22,6 +22,9 @@
 
 <img width="719" alt="Report" src="https://github.com/user-attachments/assets/1bca5a01-926f-48b2-a390-54c8b7480e30">
 
+<img width="476" alt="Test Report" src="https://github.com/user-attachments/assets/3e4686c5-9eec-42f1-bef8-59ed2d345c96">
+
+
 4. Utilization: This is the whole process of Lead workflow - 
 
  *Click on Sign in
